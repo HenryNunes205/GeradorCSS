@@ -1,0 +1,1 @@
+Este é um projeto utilizando CSS,HTML e JAVASCRIPT, onde temos um gerador de CSS com IA, o qual gera um objeto ou figura desejada com auxilio de IA, disponibilizando um código em CSS para que possa copiar e colar em seus próprios projetos em CSS, descartando assim o trabalho de fazer um código de um objeto do total 0.
